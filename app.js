@@ -1,5 +1,5 @@
 var main = function() {
-    $('.panel').hover(function() {
+    $('.panel').mouseenter(function() {
         $('.menu').animate({
             left: '0px' }, 200);
         $('.panel').animate({
