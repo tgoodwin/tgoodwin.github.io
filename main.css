@@ -90,6 +90,7 @@ body  a {
   margin: 0;
   overflow: hidden;
   position: relative;
+  opacity: 0.9;
 }
 
 .menu {
