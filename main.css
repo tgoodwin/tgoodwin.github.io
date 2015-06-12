@@ -6,7 +6,7 @@ body {
   background-size: 80%;
   background-color: #fefefe;
   position: relative;
-  overflow: hidden;
+  overflow: scroll;
 }
 
 body  a {
@@ -96,6 +96,7 @@ body  a {
 .menu {
   background: #202024;
   left: -285px;
+  top: inherit;
   height: inherit;
   position: fixed;
   width: 285px;
