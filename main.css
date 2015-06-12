@@ -96,7 +96,7 @@ body  a {
   background: ##202024;
   left top;
     left: -285px;
-    height: 100%;
+    height: inherit;
     position: fixed;
     width: 285px;
 }
