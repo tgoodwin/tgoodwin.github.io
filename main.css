@@ -162,10 +162,6 @@ body  a {
   margin-right: 5px;
 }
 
-.bar {
-  border-top: 1px solid black; top: 5px;
-}
-
 .panel {
   font-size: 400%;
   padding: 0; color: #fefefe;
@@ -207,12 +203,11 @@ body  a {
 
 .footer{
   background-color: #404040;
-  color: #fefefe;
   height: 30px;
   padding: 25px;
+  width: 100%;
   font-size: 150%;
   text-align: center;
-  z-index: 100;
 }
-.footer a {color: #fefefe; text-align: center;}
+.footer a {color: #fefefe;}
 .footer a:hover {color: #CC4422}
