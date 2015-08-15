@@ -59,6 +59,13 @@ body  a {
 }
 .nav-link:hover {background-color: #59626a;}
 
+.maintenance {
+  position: fixed;
+  top: 50%;
+  left: 40%;
+  width: 20%;
+}
+
 .nav-bar {
   position: fixed;
   right: 0px;
