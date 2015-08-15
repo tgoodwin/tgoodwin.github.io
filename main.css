@@ -64,6 +64,9 @@ body  a {
   top: 50%;
   left: 40%;
   width: 20%;
+  z-index: 5;
+  font-family: courier;
+  color: #eee;
 }
 
 .nav-bar {
