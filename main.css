@@ -145,6 +145,10 @@ body  a {
   margin-bottom: 1px;
 }
 
+.alternate {
+  background-color: #e8e8e8;
+}
+
 .thing-list ul {
   background-color: #f4f4f4;
   padding: 10px;
