@@ -13,13 +13,14 @@ body {
   position: relative;
 }
 
+.open-sans {
+  font-family: 'Open Sans';
+}
+
 body  a {
   color: #59626a;
   text-decoration: none;
 }
-  body a:hover{
-    color: #83939D;
-  }
 
 .h1 {
   font-size: 300px;
@@ -115,6 +116,7 @@ body  a {
   color: #191919;
   text-align: left;
   font-size: 200%;
+  font-family: 'Inconsolata';
   padding: 100px;
 }
 
@@ -156,10 +158,11 @@ body  a {
 
 .thing-list li {
   padding: 15px;
-  font-family: times;
+  font-family: 'Inconsolata';
 }
 .thing-highlight {
   background-color: #e2e2e2;
+  color: #83939D;
 }
 
 .thing-date {
@@ -171,8 +174,9 @@ body  a {
 }
 
 .thing-list li a {
-  font-size: 25px;
-  font-weight: 400;
+  font-family: 'Open Sans';
+  font-size: 20px;
+  font-weight: 800;
   margin-right: 5px;
 }
 
@@ -195,14 +199,6 @@ body  a {
   font-size: 550%;
   top: 40vh;
 }
-.arrow{
-  top: -120px;
-  font-size: 65%;
-  font-family: arial;
-  position: fixed; text-align: center;
-  color: #fefefe;
-}
-
 
 .panel:after{
   content : "";
