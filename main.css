@@ -9,7 +9,7 @@ body {
   left: 0;
   margin: 0;
   overflow-y: scroll;
-  overflow-x: hide;
+  overflow-x: hidden;
   position: relative;
 }
 
