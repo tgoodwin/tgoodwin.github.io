@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <title>Mokafolio - Home</title>
+  <meta charset="utf-8" />
+  <meta name="description" content="Mokafolio" />
+  <meta name="keywords" content="mokafolio, moka, art, robot, generative, procedural, media" />
+  <meta name="robots" content="index, follow" />
+  <script type="text/javascript">
+  if((window.devicePixelRatio===undefined?1:window.devicePixelRatio) > 1)
+  {
+	 document.cookie='HTTP_IS_RETINA=1;path=/';
+  }
+  </script>
+
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="jquery.min.js"></script>
+  <script src="lazyLoad.js"></script>
+  <script src="gallery.js"></script>
+  <script src="keepAspectRatio.js"></script>
+  <script src="jquery.fitvids.js"></script>
+  <script src="jquery.isotope.min.js"></script>
+</head>
+  <body>
+  <div id="all"><script type="text/javascript">
+var prevFontSize = 0;
+window.onpageshow = function(event)
+{
+    if (event.persisted)
+    {
+      //this is needed for safari and firefox to handle back-forward cache properly
+      $("#fullscreenTitle").hide();
+      $("#fullscreenTitle").css("font-size", prevFontSize);
+      $("#fullscreenTitle").css("line-height", prevFontSize);
+      $(".workItem").stop(true, true);
+      $(".workItem").fadeIn(200);
+    }
+}
+function shuffleArray(array)
+{
+  var m = array.length, t, i;
+
+  // While there remain elements to shuffle…
+  while (m) {
+
+    // Pick a remaining element…
+    i = Math.floor(Math.random() * m--);
+
+    // And swap it with the current element.
+    t = array[m];
+    array[m] = array[i];
+    array[i] = t;
+  }
+
+  return array;
+}
+
+$(document).ready(function()
+{
+  //perform isotope to arrange thumbs
+	$('#griddedImages').isotope(
+  {
+    itemSelector : '.isotope',
+    layoutMode : 'masonry',
+    masonry: {
+      columnWidth: 230
+    },
+    onLayout: function( $elems, instance )
+    {
+      lazyLoad(); //after each relayout
+    }
+  }
+  );
+
+  //workitem out
+  $(".workItem").mouseleave(function()
+  {
+    $("#fullscreenTitle").hide();
+    $("#fullscreenTitle").css("font-size", prevFontSize);
+    $("#fullscreenTitle").css("line-height", prevFontSize);
+    $(this).siblings().stop(true, true);
+    $(this).siblings().fadeIn(200);
+  });
+
+  //workitem hover
+  $(".workItem").mouseenter(function()
+  {
+    $("#fullscreenTitle").html($(this).attr("data-title"));
+    while ($("#fullscreenTitle").outerHeight() > $(window).height())
+    {
+      var currentFontSize = $("#fullscreenTitle").css("font-size");
+      $("#fullscreenTitle").css("font-size", (parseFloat(currentFontSize) - 1) + "px");
+      $("#fullscreenTitle").css("line-height", (parseFloat(currentFontSize) - 1) + "px");
+    }
+    $("#fullscreenTitle").show();
+    $(this).siblings().stop(true, true);
+    $(this).siblings().fadeOut(200);
+  });
+
+  //append the fullscreen title div
+  $("body").append('<div id="fullscreenTitle"> </div>');
+  prevFontSize = $("#fullscreenTitle").css("font-size");
+  $("#fullscreenTitle").hide();
+});
+
+</script>
+<div id="griddedImages">
+  <figure id="work0" class="isotope workItem preloadBackground" style="width: 200px; height: 200px;" data-title = "Grief in 377 iterations">
+     <a href="http://www.mokafolio.de/works/Grief"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/2af25b662d31d8fbe52cec30c78a9906.0.200.0.1.100.jpg" alt="01" width="200" height="200"></a>
+   </figure><figure id="work1" class="isotope workItem preloadBackground" style="width: 200px; height: 200px;" data-title = "limekiln">
+     <a href="../limekiln.html"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/b693f78c9de8311ecfef83c23f44ae09.200.0.0.1.100.jpg" alt="01" width="200" height="200"></a>
+   </figure><figure id="work2" class="isotope workItem preloadBackground" style="width: 200px; height: 200px;" data-title = "lovewins.sexy">
+     <a href="http://www.mokafolio.de/works/LoveWins"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/100035b39663ade8874b1122fac54a0e.200.0.0.1.100.png" alt="01" width="200" height="200"></a>
+   </figure><figure id="work3" class="isotope workItem preloadBackground" style="width: 200px; height: 200px;" data-title = "Tüffels">
+     <a href="http://www.mokafolio.de/works/Tuffels"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/1e040dd734a4b48fa593bef7a7c8bb05.200.0.0.1.100.jpg" alt="01" width="200" height="200"></a>
+   </figure><figure id="work4" class="isotope workItem preloadBackground" style="width: 200px; height: 200px;" data-title = "Munching">
+     <a href="http://www.mokafolio.de/works/Munching"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/6a316baf2936ebe922ae32c312334e2c.200.0.0.1.100.jpg" alt="01" width="200" height="200"></a>
+   </figure><figure id="work5" class="isotope workItem preloadBackground" style="width: 430px; height: 430px;" data-title = "Penetrating">
+     <a href="http://www.mokafolio.de/works/Penetrating"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/9c9abcdacab22e5aa5cb49e6ca54cd94.430.0.0.1.100.jpg" alt="01" width="430" height="430"></a>
+   </figure><figure id="work6" class="isotope workItem preloadBackground" style="width: 430px; height: 430px;" data-title = "Regurgitating">
+     <a href="http://www.mokafolio.de/works/Regurgitating"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/91e0a2921c3291c5538a5b089d301752.430.0.0.1.100.jpg" alt="01" width="430" height="430"></a>
+   </figure><figure id="work7" class="isotope workItem preloadBackground" style="width: 200px; height: 200px;" data-title = "Mechanical Parts">
+     <a href="http://www.mokafolio.de/works/Mechanical-Parts"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/ef8e49191fb7bfc75fbe4db736a031c5.200.0.0.1.100.jpg" alt="01" width="200" height="200"></a>
+   </figure><figure id="work8" class="isotope workItem preloadBackground" style="width: 200px; height: 200px;" data-title = "I Follow">
+     <a href="http://www.mokafolio.de/works/I-Follow"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/d5fb09877174bee8a123f1e85ad63c53.200.0.0.1.100.jpg" alt="01" width="200" height="200"></a>
+   </figure><figure id="work9" class="isotope workItem preloadBackground" style="width: 200px; height: 200px;" data-title = "Weird Faces Vending Machine">
+     <a href="http://www.mokafolio.de/works/Weird-Faces-Vending-Machine"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/e67d5e33d4e634bf625bd1ccdd639ce9.0.200.0.1.100.jpg" alt="01" width="200" height="200"></a>
+   </figure><figure id="work10" class="isotope workItem preloadBackground" style="width: 430px; height: 430px;" data-title = "Ecube">
+     <a href="http://www.mokafolio.de/works/Ecube"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/3b6d7796bd0bf5681906c0180dddd874.0.430.0.1.100.jpg" alt="01" width="430" height="430"></a>
+   </figure><figure id="work11" class="isotope workItem preloadBackground" style="width: 200px; height: 200px;" data-title = "Weird Faces">
+     <a href="http://www.mokafolio.de/works/Weird-Faces"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/db3517d5f5bffca748ce87a25b708f68.200.0.0.1.100.jpg" alt="01" width="200" height="200"></a>
+   </figure><figure id="work12" class="isotope workItem preloadBackground" style="width: 200px; height: 200px;" data-title = "Handwritten Invoice">
+     <a href="http://www.mokafolio.de/works/Handwritten-Invoice"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/cee53eb02a1d2fa2def03c0cb8f58ccf.200.0.0.1.100.jpg" alt="A" width="200" height="200"></a>
+   </figure><figure id="work13" class="isotope workItem preloadBackground" style="width: 200px; height: 200px;" data-title = "Selective Memory Theatre">
+     <a href="http://www.mokafolio.de/works/Selective-Memory-Theatre"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/25005ac3f2835ec52ee0c66175c7eaa4.200.0.0.1.100.jpg" alt="1" width="200" height="200"></a>
+   </figure><figure id="work14" class="isotope workItem preloadBackground" style="width: 200px; height: 200px;" data-title = "Refaketion">
+     <a href="http://www.mokafolio.de/works/Written-Images"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/65c291501658a2514fd8daca2a283b5e.200.0.0.1.100.jpg" alt="01" width="200" height="200"></a>
+   </figure><figure id="work15" class="isotope workItem preloadBackground" style="width: 200px; height: 200px;" data-title = "Metope - Rebird">
+     <a href="http://www.mokafolio.de/works/Metope-Rebird"><img src="http://www.mokafolio.de/assets/images/placeholder.gif" class="lazyLoad" data-src="http://www.mokafolio.de/thumbs/52ec50841be30548cafb69282a120bf3.200.0.0.1.100.jpg" alt="1" width="200" height="200"></a>
+   </figure></div>
+  <div id="footerAndNavi">
+  <nav class="menu">
+  <ul>
+        <li><a href="http://www.mokafolio.de/information">Information</a></li>
+        <li><a class="active" href="http://timgoodwin.me/">Home</a></li>
+      </ul>
+</nav>  <nav class="linkMenu">
+  <ul>
+    <li><a href="https://instagram.com/tgoodwin_/" target="_blank">Instagram</a></li>
+  	<li><a href="http://twitter.com/nuns_honey" target="_blank">Twitter</a></li>
+    <li><a href="http://www.last.fm/user/timbadlose"target="_blank">last.fm</a></li>
+    <li><a href="http://stuff.mokafolio.de/C6967BD9.asc" target="_blank">PGP</a></li>
+  	<li><p><a href="mailto:&#104;&#x69;&#64;&#x6d;&#111;&#107;&#97;&#x66;&#111;&#108;&#105;&#x6f;&#46;&#100;&#101;">&#69;&#x6d;&#x61;&#x69;&#x6c;</a></p>
+</li>
+  </ul>
+  </nav>
+  <footer>
+    <p>© 2013-2015 <a href="http://timgoodwin.me">Timothy Goodwin</a></p>
+  </footer>
+  </div>
+  </div>
+</body>
+
+</html>
