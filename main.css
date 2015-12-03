@@ -27,6 +27,7 @@ body  a {
   border-bottom: 1px #191919 solid;
   color: #191919;
   font-family: inherit;
+  font-style: italic;
 }
 .about a:hover {
   color: #fefefe;
