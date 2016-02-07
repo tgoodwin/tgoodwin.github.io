@@ -1,5 +1,4 @@
 
-<!--This page is by Tim Goodwin -->
 <!DOCTYPE html>
 <html>
     <head>
@@ -23,9 +22,8 @@
                 <ul>
                 <li><a href="#about" class="smoothScroll">ABOUT</a></li>
                 <li><a href="#art"class="smoothScroll">MULTIMEDIA</a></li>
-                <li><a href="#programs" class="smoothScroll">PROGRAMMING</a></li>
-                <li><a href="#sound"class="smoothScroll">MUSIC</a></li>
                 <li><a href="#ee"class="smoothScroll">ENGINEERING</a></li>
+                <li><a href="#sound"class="smoothScroll">MUSIC</a></li>
                 <li><a href="#photo"class="smoothScroll">PHOTO</a></li>
                 <li><a href="#contact"class="smoothScroll">NETWORK</a></li>
               </ul>
@@ -35,11 +33,14 @@
             <div class="about-me">
               <span class="big white open-sans" id="about"><i>informational webpage</i></br></span>
               Thanks for checking this page out. This is an assortment of projects and experiments I've worked on over the past few years. </br></br>
-              <span class="white"><i>About myself</i> --</span> I am 21 years old and currently living in New York. My interests primarily involve computers, and are focused on multimedia technologies, networks, information theory, and communicating in general. I am also making a continuous effort with my friends to <span class="about"><a href="http://tinyletter.com/timgrahamncanada">curate the information overload</a></span>.
+              <span class="white"><i>About myself</i> --</span> I am 21 years old and currently living in New York. My interests primarily involve computers, and are focused on multimedia technologies, networks, information theory, and general communication systems. I am also making a continuous effort with my friends to <span class="about"><a href="http://tinyletter.com/timgrahamncanada">curate the information overload</a></span>.
             </div>
 
             <div class="thing-list" id="griddedImages">
               <ul class="thing-list" id="art"><p class="thing-header"> Multimedia</p>
+                <li>
+                  <a href="http://45.55.222.59/">NYC MUSIC ATLAS</a> [Fall 2015] Web tool for topographically exploring the music and visual arts coverage of New York's Rare Candy Magazine. (Still in development, release on www.rarecandy.org planned for January).
+                </li>
                 <li class="alternate">
                   <a href="/what-are-you-doing">WHAT ARE YOU DOING</a> <span class="thing-date">[Aug 2015]</span> An instant message love story about you and someone else. Built with WebGL [please use with Chrome for intended results].
                 </li>
@@ -53,41 +54,48 @@
               	<li>
               		<a href="prints.html"> SCREENPRINT</a><span class="thing-date">[Spring 2014]</span> Some things here.
               	</li>
-              	<li>
+              <!--	<li>
               		<a href="https://github.com/tgoodwin/spirograph-er" target="_blank"> SPIROGRAPH</a><span class="thing-date">[Spring 2013]</span>
               		Simple, visually pleasing math experiment in Python. One of the first things I made.
-              	</li>
+              	</li> -->
               </ul>
-
-          		  <ul class="thing-list" id="programs"><p class="thing-header"> Computer Programming</p>
-                <li>
-                  <a href="http://45.55.222.59/">NYC MUSIC ATLAS</a> [Fall 2015] Web tool for topographically exploring the music and visual art coverage of New York's Rare Candy Magazine. (Still in development, release on www.rarecandy.org planned for January).
-                </li>
-                <li class="alternate">
-                  <a href="https://github.com/tgoodwin/bellman-ford-4119">BELLMAN-FORD </a><span class="thing-date">[Fall 2015]</span>
-                  A distributed routing algorithm dynamic programming project using JSON communications.
-                </li>
-            		<li>
+                  <!--
             		<a href="https://github.com/tgoodwin/short-trip"> SHORTEST PATH EVER</a><span class="thing-date">[Fall 2014]</span>
             		Interactive map of the continental US implementing Dijkstra's in Java.
             		</li>
                 <li class="alternate">
             		<a href="https://github.com/tgoodwin/huffman-coder"> GRAPHICAL HUFFMAN ENCODER</a><span class="thing-date">[Fall 2014]</span>
             		Visualize the Huffman Coding text compression process in Java.
-              </li>
-            		<li>
+              </li> -->
+            	<!--	<li>
             		<a href="https://github.com/tgoodwin/music-box"> MELODY BOX</a><span class="thing-date">[Spring 2013]</span>
             		Programmable "music box" in Python (built with/requires Pygame library), generates repeating melodies/sonic textures based on user input.
-            		</li>
+              </li> -->
             	</ul>
+              <ul class="thing-list"><p class="thing-header" id="ee"> Engineering Projects </p>
+            <!--    <li class="alternate">
+                  <a href="poster_revised.pdf">PERIODICALLY POLED LiNbO3 </a><span class="thing-date">[Spring/Summer 2015]</span> electrical engineering research developing photonic crystal devices to enable novel laser applications via passive frequency conversion.
+              	<li> -->
+              	<!-- 	<a href="delta3D.html"> DELTA-KINEMATIC 3D PRINTER</a><span class="thing-date">[Spring 2015]</span>
+              		A big project building lightning-speedy 3D printer using assembly-line robot design, currently under construction stay tuned.</br>
+              	</li> -->
+                <li>
+                  <a href="https://github.com/tgoodwin/bellman-ford-4119">BELLMAN-FORD </a><span class="thing-date">[Fall 2015]</span>
+                  A distributed routing algorithm implemented with socket API, compatible with dynamic / ad-hoc networks over WiFi.
+                </li>
+              	<li class="alternate">
+              		<a href="lpf.html"> VOICE CONTROLLED LPF</a><span class="thing-date">[Fall 2014]</span>
+              		Schematic for an audio preamp with a voice-engaged lowpass filter stage.
+              	</li>
+              </ul>
 
             <ul class="thing-list"><p class="thing-header" id="sound"> Music </p>
               <li>
-                <a href= "http://www.wbar.org/shows/F15/Everything%20So%20Far/" target="_blank">EVERYTHING SO FAR</a> My radio show on WBAR Barnard College Freeform Radio. Tuesdays, 6-8PM EST. Emphasis on contemporary, post-shred guitar bands.
+                <a href= "http://www.wbar.org/shows/F15/Everything%20So%20Far/" target="_blank">NEW ADVENTURES IN HI-FI</a> My radio show on WBAR Barnard College Freeform Radio. Thursdays, 8-10PM EST.
               </li>
 
               <li class="alternate">
-                <a href= "http://www.hifisnockuptown.com/archives/corporate-beach" target="_blank">SAD ABOUT CALIFORNIA CHROME</a><span class="thing-date">[Fall 2014]</span> Post-racehorse letdown DIY cover band...
+                <a href= "http://www.hifisnockuptown.com/archives/corporate-beach" target="_blank">SAD ABOUT CALIFORNIA CHROME</a><span class="thing-date">[Fall 2014]</span> Was a post-racehorse letdown DIY cover band...
               </li>
               <li>
                 <a href= "https://en.wikipedia.org/wiki/Lou_Reed" target="_blank">LOVE N' MERCY</a> Uptown based project led by Caleb Oldham and Graham Johnson (coming soon).
@@ -95,28 +103,14 @@
               <li class="alternate"><a href="https://soundcloud.com/tim-goodwin-8" target="_blank">SOUND CLOUD</a> Personal, uncurated collection of guitar and midi noodles.
               </li>
             </ul>
-
-            <ul class="thing-list"><p class="thing-header" id="ee"> Engineering Projects </p>
-              <li class="alternate">
-                <a href="poster_revised.pdf">PERIODICALLY POLED LiNbO3 </a><span class="thing-date">[Spring/Summer 2015]</span> electrical engineering research developing photonic crystal devices to enable novel laser applications via passive frequency conversion.
-            	<li>
-            		<a href="delta3D.html"> DELTA-KINEMATIC 3D PRINTER</a><span class="thing-date">[Spring 2015]</span>
-            		A big project building lightning-speedy 3D printer using assembly-line robot design, currently under construction stay tuned.</br>
-            	</li>
-            	<li class="alternate">
-            		<a href="lpf.html"> VOICE CONTROLLED LPF</a><span class="thing-date">[Fall 2014]</span>
-            		Schematic for an audio preamp with a voice-engaged lowpass filter stage.
-            	</li>
-            </ul>
             <ul class="thing-list"><p class="thing-header" id="photo"> Photo Efforts </p>
-            	<li class="alternate">
-            		<a href="http://timgoodwin.vsco.co/grid/1" target="_blank"> SMART PHONE</a>
-            		Amateur phone pic photography <del>lifestyle</del> candid vsco.
-            	</li>
-            	<li>
-            		<a href="https://www.flickr.com/photos/91457550@N06/" target="_blank"> FLICKR</a>
-            		Travel Photos
-            	</li>
+              <li class="alternate">
+                <a href="http://timgoodwin.vsco.co/grid/1" target="_blank"> SMART PHONE</a>
+                Amateur phone pic photography <del>lifestyle</del> candid vsco.
+              </li>
+              <li>
+                <a href="https://www.flickr.com/photos/91457550@N06/" target="_blank"> FLICKR</a>
+              </li>
 
             </ul>
 
@@ -129,7 +123,7 @@
             </ul>
           </div>
 
-              <div class="footer"><span class="big-sans"><a href="mailto:timg.goodwin@gmail.com">&copy;2015 Timothy Goodwin</a></span></div>
+              <div class="footer"><span class="big-sans"><a href="mailto:timg.goodwin@gmail.com">&copy;2016 Timothy Goodwin</a></span></div>
 
     </body>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
