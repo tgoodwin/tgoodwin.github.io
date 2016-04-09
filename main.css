@@ -183,6 +183,9 @@ body  a {
 }
 
 .thing-list li a {
+  text-decoration: underline;
+}
+.project-title a {
   font-family: 'Open Sans';
   font-size: 20px;
   font-weight: 800;

@@ -56,10 +56,10 @@ $(document).ready(function() {
 
   function blockHover(){
     $('[class="thing-list"] li').mouseenter(function(){
-    $(this).addClass('thing-highlight');
+    //$(this).addClass('thing-highlight');
     })
     $('[class="thing-list"] li').mouseleave(function(){
-      $(this).removeClass('thing-highlight');
+    //  $(this).removeClass('thing-highlight');
     })
   }
 })
