@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fixeds on Tim Goodwin</title>
+    <link>http://timgoodwin.me/fixed/</link>
+    <description>Recent content in Fixeds on Tim Goodwin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Aug 2016 14:28:14 -0700</lastBuildDate>
+    <atom:link href="http://timgoodwin.me/fixed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>code</title>
+      <link>http://timgoodwin.me/code/</link>
+      <pubDate>Tue, 16 Aug 2016 14:28:14 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/code/</guid>
+      <description>&lt;p&gt;Here we are!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information</title>
+      <link>http://timgoodwin.me/information/</link>
+      <pubDate>Tue, 16 Aug 2016 14:10:15 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/information/</guid>
+      <description>&lt;p&gt;Thanks for checking out my site. This is an assortment of projects and experiments I&amp;rsquo;ve worked on over the past few years.&lt;/p&gt;
+
+&lt;p&gt;I am 21 years old and currently living in New York. My interests primarily involve computers, and are focused on multimedia technologies, networking, information theory, and machine learning. I make weekly attempts with my friends to curate the information overload.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
