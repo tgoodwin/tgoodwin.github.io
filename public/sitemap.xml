@@ -3,17 +3,67 @@
   
   <url>
     <loc>http://timgoodwin.me/</loc>
-    <lastmod>2016-08-16T14:28:14-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://timgoodwin.me/code/</loc>
-    <lastmod>2016-08-16T14:28:14-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://timgoodwin.me/information/</loc>
     <lastmod>2016-08-16T14:10:15-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timgoodwin.me/about/</loc>
+    <lastmod>2016-08-16T14:10:15-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timgoodwin.me/engineering/ctis-lambda/</loc>
+    <lastmod>2016-08-16T22:03:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timgoodwin.me/engineering/ad-server-radar/</loc>
+    <lastmod>2016-07-16T22:14:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timgoodwin.me/engineering/amuse/</loc>
+    <lastmod>2016-01-16T22:03:03-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timgoodwin.me/friends/</loc>
+    <lastmod>2016-08-17T00:04:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timgoodwin.me/multimedia/my-ad-net/</loc>
+    <lastmod>2016-08-16T20:38:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timgoodwin.me/contact/</loc>
+    <lastmod>2016-08-16T19:31:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timgoodwin.me/engineering/bellman-ford/</loc>
+    <lastmod>2015-11-16T22:08:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timgoodwin.me/multimedia/nyc-music-atlas/</loc>
+    <lastmod>2015-09-16T22:27:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timgoodwin.me/multimedia/what-are-you-doing/</loc>
+    <lastmod>2015-07-16T22:29:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timgoodwin.me/multimedia/went-to-japan/</loc>
+    <lastmod>2015-05-16T22:31:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://timgoodwin.me/engineering/voice-lpf/</loc>
+    <lastmod>2014-11-16T22:07:18-07:00</lastmod>
   </url>
   
 </urlset>
