@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = false
+[branch "master"]
+[remote "origin"]
+	url = git@github.com:tgoodwin/tgoodwin.github.io.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
