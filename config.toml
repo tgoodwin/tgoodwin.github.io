@@ -3,8 +3,12 @@ languageCode = "en-us"
 title = "Tim Goodwin"
 author = "Tim Goodwin"
 description = "here we go"
-# SectionPagesMenu = "main"
 pluralizelisttitles = "false"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+
 
 theme="hyde"
 

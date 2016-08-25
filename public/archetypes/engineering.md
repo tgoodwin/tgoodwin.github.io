@@ -1,4 +1,0 @@
-+++
-showdate = true
-disp = "works"
-+++
