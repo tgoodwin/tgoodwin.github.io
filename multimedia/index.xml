@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimedia on Tim Goodwin</title>
+    <link>timgoodwin/multimedia/</link>
+    <description>Recent content in Multimedia on Tim Goodwin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Aug 2016 20:38:58 -0700</lastBuildDate>
+    <atom:link href="timgoodwin/multimedia/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>my ad net</title>
+      <link>/timgoodwin/multimedia/my-ad-net/</link>
+      <pubDate>Tue, 16 Aug 2016 20:38:58 -0700</pubDate>
+      
+      <guid>/timgoodwin/multimedia/my-ad-net/</guid>
+      <description>&lt;p&gt;A live updating visualization of every ad server that exchanges data with my apartment&amp;rsquo;s local area network. A reciprocal tracking of the systems that collect personal information to serve targeted advertisements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NYC Music Atlas</title>
+      <link>/timgoodwin/multimedia/nyc-music-atlas/</link>
+      <pubDate>Wed, 16 Sep 2015 22:27:59 -0700</pubDate>
+      
+      <guid>/timgoodwin/multimedia/nyc-music-atlas/</guid>
+      <description>&lt;p&gt;A geospatial guide to the music and visual arts coverage of New York&amp;rsquo;s Rare Candy Magazine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>what are you doing</title>
+      <link>/timgoodwin/multimedia/what-are-you-doing/</link>
+      <pubDate>Thu, 16 Jul 2015 22:29:39 -0700</pubDate>
+      
+      <guid>/timgoodwin/multimedia/what-are-you-doing/</guid>
+      <description>&lt;p&gt;An instant message love journey involving you and someone else. Please use Chrome for best experience.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Went to Japan</title>
+      <link>/timgoodwin/multimedia/went-to-japan/</link>
+      <pubDate>Sat, 16 May 2015 22:31:16 -0700</pubDate>
+      
+      <guid>/timgoodwin/multimedia/went-to-japan/</guid>
+      <description>&lt;p&gt;A photo essay and JPEG encoding experiment as my final project for the Columbia University Japan Study Tour.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
