@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engineering on Tim Goodwin</title>
+    <link>/engineering/</link>
+    <description>Recent content in Engineering on Tim Goodwin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Aug 2016 22:03:54 -0700</lastBuildDate>
+    <atom:link href="/engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CTIS-Lambda</title>
+      <link>/engineering/ctis-lambda/</link>
+      <pubDate>Tue, 16 Aug 2016 22:03:54 -0700</pubDate>
+      
+      <guid>/engineering/ctis-lambda/</guid>
+      <description>&lt;p&gt;A scalable Content-To-Image service using the PhantomJS browser, built for AWS Lambda serverless backend architecture. Service can produce background images or thumbnails from a web content source and automatically drop them into cloud storage. AWS Lambda eliminates scalability issues, making this backend service as easy and pain-free as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pi-Hole Radar</title>
+      <link>/engineering/ad-server-radar/</link>
+      <pubDate>Sat, 16 Jul 2016 22:14:48 -0700</pubDate>
+      
+      <guid>/engineering/ad-server-radar/</guid>
+      <description>&lt;p&gt;A geolocation API for use with the &amp;lsquo;pi-hole&amp;rsquo; adblocking DNS software. Allows a user to identify and locate all physical systems serving ads to or collecting browsing data from their local network.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AMuSe Emulator</title>
+      <link>/engineering/amuse/</link>
+      <pubDate>Sat, 16 Jan 2016 22:03:03 -0700</pubDate>
+      
+      <guid>/engineering/amuse/</guid>
+      <description>&lt;p&gt;AMuSe Emlator, built at Columbia&amp;rsquo;s Wireless &amp;amp; Mobile Networking Lab, is a web-based visual simulation of the lab&amp;rsquo;s Adaptive Multicast Services project. The &lt;a href=&#34;http://wimnet.ee.columbia.edu/portfolio/amuse/&#34;&gt;Adaptive Multicast Services&lt;/a&gt; project is a WiFi transmission technology that provides a scheme to intelligently process receiver feedback for network adaptation (transmission rate) based on this feedback.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bellman-Ford</title>
+      <link>/engineering/bellman-ford/</link>
+      <pubDate>Mon, 16 Nov 2015 22:08:51 -0700</pubDate>
+      
+      <guid>/engineering/bellman-ford/</guid>
+      <description>&lt;p&gt;My socket API implementation of a classic distributed routing algorithm, adapts automatically to handle dynamic network topologies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voice LPF</title>
+      <link>/engineering/voice-lpf/</link>
+      <pubDate>Sun, 16 Nov 2014 22:07:18 -0700</pubDate>
+      
+      <guid>/engineering/voice-lpf/</guid>
+      <description>&lt;p&gt;Schematic for an audio preamp with a voice-engaged low-pass filter stage.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

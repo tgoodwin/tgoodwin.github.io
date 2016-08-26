@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2016-08-16T14:10:15-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2016-08-16T14:10:15-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/engineering/ctis-lambda/</loc>
+    <lastmod>2016-08-16T22:03:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/engineering/ad-server-radar/</loc>
+    <lastmod>2016-07-16T22:14:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/engineering/amuse/</loc>
+    <lastmod>2016-01-16T22:03:03-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/friends/</loc>
+    <lastmod>2016-08-17T00:04:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/multimedia/my-ad-net/</loc>
+    <lastmod>2016-08-16T20:38:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2016-08-16T19:31:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/engineering/bellman-ford/</loc>
+    <lastmod>2015-11-16T22:08:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/multimedia/nyc-music-atlas/</loc>
+    <lastmod>2015-09-16T22:27:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/multimedia/what-are-you-doing/</loc>
+    <lastmod>2015-07-16T22:29:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/multimedia/went-to-japan/</loc>
+    <lastmod>2015-05-16T22:31:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/engineering/voice-lpf/</loc>
+    <lastmod>2014-11-16T22:07:18-07:00</lastmod>
+  </url>
+  
+</urlset>
