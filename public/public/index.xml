@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Goodwin</title>
+    <link>http://timgoodwin.me/</link>
+    <description>Recent content on Tim Goodwin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Aug 2016 14:10:15 -0700</lastBuildDate>
+    <atom:link href="http://timgoodwin.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://timgoodwin.me/about/</link>
+      <pubDate>Tue, 16 Aug 2016 14:10:15 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/about/</guid>
+      <description>
+
+&lt;p&gt;This site features a selection of projects and experiments that I&amp;rsquo;ve worked on over the past few years.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;About myself&lt;/em&gt; &amp;ndash; I am 21 years old and currently living in New York, studying at Columbia University. My interests primarily involve computers, and are focused on media technologies, communication networks, &lt;em&gt;the cloud&lt;/em&gt;, and machine learning.&lt;/p&gt;
+
+&lt;p&gt;In an attempt to curate the information overload, I also write a weekly newsletter with my friends &amp;ndash; &lt;a href=&#34;http://tinyletter.com/timgrahamncanada&#34;&gt;subscribe here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;connect&#34;&gt;Connect&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:timgooodwin@gmail.com&#34;&gt;Email&lt;/a&gt; | &lt;a href=&#34;https://github.com/tgoodwin&#34;&gt;Github&lt;/a&gt; | &lt;a href=&#34;http://last.fm/user/timbadlose&#34;&gt;Last.fm&lt;/a&gt; | &lt;a href=&#34;http://linkedin.com/in/tgoodwin17&#34;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CTIS-Lambda</title>
+      <link>http://timgoodwin.me/engineering/ctis-lambda/</link>
+      <pubDate>Tue, 16 Aug 2016 22:03:54 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/engineering/ctis-lambda/</guid>
+      <description>&lt;p&gt;A scalable Content-To-Image service using the PhantomJS browser, built for AWS Lambda serverless backend architecture. Service can produce background images or thumbnails from a web content source and automatically drop them into cloud storage. AWS Lambda eliminates scalability issues, making this backend service as easy and pain-free as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pi-Hole Radar</title>
+      <link>http://timgoodwin.me/engineering/ad-server-radar/</link>
+      <pubDate>Sat, 16 Jul 2016 22:14:48 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/engineering/ad-server-radar/</guid>
+      <description>&lt;p&gt;A geolocation API for use with the &amp;lsquo;pi-hole&amp;rsquo; adblocking DNS software. Allows a user to identify and locate all physical systems serving ads to or collecting browsing data from their local network.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AMuSe Emulator</title>
+      <link>http://timgoodwin.me/engineering/amuse/</link>
+      <pubDate>Sat, 16 Jan 2016 22:03:03 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/engineering/amuse/</guid>
+      <description>&lt;p&gt;AMuSe Emlator, built at Columbia&amp;rsquo;s Wireless &amp;amp; Mobile Networking Lab, is a web-based visual simulation of the lab&amp;rsquo;s Adaptive Multicast Services project. The &lt;a href=&#34;http://wimnet.ee.columbia.edu/portfolio/amuse/&#34;&gt;Adaptive Multicast Services&lt;/a&gt; project is a WiFi transmission technology that provides a scheme to intelligently process receiver feedback for network adaptation (transmission rate) based on this feedback.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>friends</title>
+      <link>http://timgoodwin.me/friends/</link>
+      <pubDate>Wed, 17 Aug 2016 00:04:29 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/friends/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://tropical-labs.com&#34;&gt;tropical-labs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://grahamdavidjohnson.org&#34;&gt;graham johnson&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://kevinroark.com&#34;&gt;kevin roark&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://katieyunart.com&#34;&gt;katie yun&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://francescocksedge.com&#34;&gt;frances cocksedge&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://seandelanty.com&#34;&gt;sean delanty&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://listicle.website&#34;&gt;listicle.website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wbar.org&#34;&gt;WBAR Radio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.hifisnockuptown.com&#34;&gt;Hi-Fi Snock Uptown&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>my ad net</title>
+      <link>http://timgoodwin.me/multimedia/my-ad-net/</link>
+      <pubDate>Tue, 16 Aug 2016 20:38:58 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/multimedia/my-ad-net/</guid>
+      <description>&lt;p&gt;A live updating visualization of every ad server that exchanges data with my apartment&amp;rsquo;s local area network. A reciprocal tracking of the systems that collect personal information to serve targeted advertisements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://timgoodwin.me/contact/</link>
+      <pubDate>Tue, 16 Aug 2016 19:31:13 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/contact/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;mailto:timgooodwin@gmail.com&#34;&gt;Email&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/tgoodwin&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;last.fm/timbadlose&#34;&gt;Last.fm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://instagram.com/tgoodwin_&#34;&gt;Instagram&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;PGP Key&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bellman-Ford</title>
+      <link>http://timgoodwin.me/engineering/bellman-ford/</link>
+      <pubDate>Mon, 16 Nov 2015 22:08:51 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/engineering/bellman-ford/</guid>
+      <description>&lt;p&gt;My socket API implementation of a classic distributed routing algorithm, adapts automatically to handle dynamic network topologies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NYC Music Atlas</title>
+      <link>http://timgoodwin.me/multimedia/nyc-music-atlas/</link>
+      <pubDate>Wed, 16 Sep 2015 22:27:59 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/multimedia/nyc-music-atlas/</guid>
+      <description>&lt;p&gt;A geospatial guide to the music and visual arts coverage of New York&amp;rsquo;s Rare Candy Magazine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>what are you doing</title>
+      <link>http://timgoodwin.me/multimedia/what-are-you-doing/</link>
+      <pubDate>Thu, 16 Jul 2015 22:29:39 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/multimedia/what-are-you-doing/</guid>
+      <description>&lt;p&gt;An instant message love journey involving you and someone else. Please use Chrome for best experience.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Went to Japan</title>
+      <link>http://timgoodwin.me/multimedia/went-to-japan/</link>
+      <pubDate>Sat, 16 May 2015 22:31:16 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/multimedia/went-to-japan/</guid>
+      <description>&lt;p&gt;A photo essay and JPEG encoding experiment as my final project for the Columbia University Japan Study Tour.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voice LPF</title>
+      <link>http://timgoodwin.me/engineering/voice-lpf/</link>
+      <pubDate>Sun, 16 Nov 2014 22:07:18 -0700</pubDate>
+      
+      <guid>http://timgoodwin.me/engineering/voice-lpf/</guid>
+      <description>&lt;p&gt;Schematic for an audio preamp with a voice-engaged low-pass filter stage.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

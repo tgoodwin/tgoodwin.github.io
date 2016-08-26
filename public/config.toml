@@ -1,0 +1,28 @@
+baseurl = "http://timgoodwin.me/"
+languageCode = "en-us"
+title = "Tim Goodwin"
+author = "Tim Goodwin"
+description = "here we go"
+pluralizelisttitles = "false"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+
+
+theme="hyde"
+
+[permalinks]
+fixed = ":title/"
+
+[taxonomies]
+tag = "tags"
+series = "series"
+
+[Params]
+Author = "Tim Goodwin"
+DateForm = "Jan 2, 2006"
+title = "tim goodwin"
+description = ""
+Email = "timg.goodwin@gmail.com"
+GitHub = "//github.com/tgoodwin"
