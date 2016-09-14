@@ -99,12 +99,16 @@ html {
   list-style: none;
   font-family: "PT Sans", Helvetica, sans-serif;
 }
+
 .sidebar-nav-item {
   display: block;
 }
+li.sidebar-nav:hover {
+  font-family: courier;
+}
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: none;
+  font-family: courier;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
