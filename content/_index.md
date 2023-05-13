@@ -23,6 +23,8 @@ Bart Jansen, Timothy Goodwin, Varun Gupta, Fernando Kuipers, Gil Zussman.
 ## Projects
 - [crd-tweet](https://github.com/tgoodwin/crd-tweet) (Spring 2023). A fully peer-to-peer twitter prototype modeled with CRDTs, built with SQLite, and WebRTC.
 
+- [Happenings](https://whatshappenings.com) (2019 - present). A social tool for organizing and archiving community events.
+
 - [WebRTC-Analyzer](https://github.com/tgoodwin/webRTC-analyzer) (Spring 2017). A simple video chat server application instrumented to evaluate the performance of the WebRTC protocol under various network conditions.
 
 - [The Netflix Stream](https://discrete.events/netflix-model) (May 2017). Essay on the Netflix Stream as a media artifact that explores the connections between internet topology, streaming infrastructure, consumer subjectivity, and environmental consequence.
