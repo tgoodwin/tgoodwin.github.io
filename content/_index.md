@@ -21,7 +21,7 @@ Bart Jansen, Timothy Goodwin, Varun Gupta, Fernando Kuipers, Gil Zussman.\
 [IFIP Performance '17](https://dl.acm.org/toc/sigmetrics/2018/45/3)
 
 ## Projects
-- [crd-tweet](https://github.com/tgoodwin/crd-tweet) (Spring 2023)\
+- [crd-tweet](https://github.com/tgoodwin/crd-tweet) (Mar 2023)\
 A fully peer-to-peer twitter prototype modeled with CRDTs, built with SQLite, and WebRTC.
 
 - [Happenings](https://whatshappenings.com) (2019 - present)\
