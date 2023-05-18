@@ -1,0 +1,7 @@
+baseURL = 'https://discrete.events'
+languageCode = 'en-us'
+title = 'Tim Goodwin'
+theme = 'hugo-bearblog'
+favicon = 'images/favicon.png'
+images = ["images/timothy_goodwin.jpg"]
+publishDir = "docs"
