@@ -1,12 +1,12 @@
 ![timothy goodwin](/images/timothy_goodwin-3-2.jpg)
 ## Information
-This site features a selection of projects and experiments that I’ve worked on recently.
+This site features a selection of projects I have worked on over the past few years.
 
-_About myself_ – I am a first year PhD student in the [LSD lab](https://lsd.ucsc.edu) at UC Santa Cruz. I am broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers.
+_About myself_ – I am a first year PhD student in the [LSD lab](https://lsd.ucsc.edu. at UC Santa Cruz. I am broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers. 
 
 I lead a small engineering team at [Impossible Effort](https://impossible-effort.com), where we are building a new social tool for organizing and archiving community events. I also record and produce music as [Nuns Honey](https://nunshoney.bandcamp.com) - have a listen!
 
-## Contact
+### Contact
 timg.goodwin@gmail.com
 
 [Github](https://github.com/tgoodwin) | [Last.fm](https://www.strava.com/athletes/43726571) | [Strava](https://www.strava.com/athletes/43726571)
