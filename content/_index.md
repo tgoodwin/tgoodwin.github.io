@@ -1,17 +1,17 @@
 ![timothy goodwin](/images/timothy_goodwin-3-2.jpg)
-## Information
+## # Information
 This site features a selection of projects I have worked on over the past few years.
 
 _About myself_ – I am a first year PhD student in the [LSD lab](https://lsd.ucsc.edu) at UC Santa Cruz. I am broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers. 
 
 I lead a small engineering team at [Impossible Effort](https://impossible-effort.com), where we are building a new social tool for organizing and archiving community events. I also record and produce music as [Nuns Honey](https://nunshoney.bandcamp.com) - have a listen!
 
-### Contact
+### Contact 
 timg.goodwin@gmail.com
 
 [Github](https://github.com/tgoodwin) * [Last.fm](https://www.last.fm/user/timbadlose) * [Strava](https://www.strava.com/athletes/43726571)
 
-## Publications
+## # Publications
 - **What goes wrong in serverless runtimes? A survey of bugs in Knative Serving.**\
 Tim Goodwin, Andrew Quinn, Lindsey Kuper.\
 [SESAME '23](https://sesame23.github.io)
@@ -20,12 +20,12 @@ Tim Goodwin, Andrew Quinn, Lindsey Kuper.\
 Bart Jansen, Timothy Goodwin, Varun Gupta, Fernando Kuipers, Gil Zussman.\
 [IFIP Performance '17](https://dl.acm.org/toc/sigmetrics/2018/45/3)
 
-## Projects
+## # Projects
 - [crd-tweet](https://github.com/tgoodwin/crd-tweet) (Mar 2023)\
-A fully peer-to-peer twitter prototype modeled with CRDTs, built with SQLite, and WebRTC.
+A fully peer-to-peer twitter prototype. Modeled with CRDTs, built with SQLite and WebRTC.
 
 - [Happenings](https://whatshappenings.com) (2019 - present)\
-A social tool for organizing and archiving community events.
+A social tool for organizing and archiving community events. 
 
 - [WebRTC-Analyzer](https://github.com/tgoodwin/webRTC-analyzer) (Spring 2017)\
 A simple video chat server application instrumented to evaluate the performance of the WebRTC protocol under various network conditions.
