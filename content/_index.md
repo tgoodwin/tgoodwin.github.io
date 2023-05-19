@@ -1,12 +1,12 @@
 ![timothy goodwin](/images/timothy_goodwin-3-2.jpg)
 ## # Information
-This site features a selection of projects I have worked on over the past few years.
+This site features a selection of projects that I've enjoyed working on over the past few years.
 
-_About myself_ – I am a first year PhD student in the [LSD lab](https://lsd.ucsc.edu) at UC Santa Cruz. I am broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers. 
+_About Myself_ - I am a first year PhD student in the [LSD lab](https://lsd.ucsc.edu) at UC Santa Cruz. I am broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers.
 
-I lead a small engineering team at [Impossible Effort](https://impossible-effort.com), where we are building a new social tool for organizing and archiving community events. I also record and produce music as [Nuns Honey](https://nunshoney.bandcamp.com) - have a listen!
+Previously, I was working as a software engineer in New York. I lead a small engineering team at [Impossible Effort](https://impossible-effort.com), where we are building a new social tool for organizing and archiving community events. I also record and produce music as [Nuns Honey](https://nunshoney.bandcamp.com) - have a listen!
 
-### Contact 
+### Contact
 timg.goodwin@gmail.com
 
 [Github](https://github.com/tgoodwin) * [Last.fm](https://www.last.fm/user/timbadlose) * [Strava](https://www.strava.com/athletes/43726571)
@@ -25,7 +25,7 @@ Bart Jansen, Timothy Goodwin, Varun Gupta, Fernando Kuipers, Gil Zussman.\
 A fully peer-to-peer twitter prototype. Modeled with CRDTs, built with SQLite and WebRTC.
 
 - [Happenings](https://whatshappenings.com) (2019 - present)\
-A social tool for organizing and archiving community events. 
+A social tool for organizing and archiving community events.
 
 - [WebRTC-Analyzer](https://github.com/tgoodwin/webRTC-analyzer) (Spring 2017)\
 A simple video chat server application instrumented to evaluate the performance of the WebRTC protocol under various network conditions.
@@ -47,3 +47,4 @@ An instant message love journey involving you and someone else. Please use Chrom
 
 - [Went To Japan](http://tgoodwin.github.io/went-to-japan) (May 2015)\
 A photo essay and JPEG encoding experiment as my final project for the [Columbia University Japan Study Tour](https://www.college.columbia.edu/news/columbia-university-japan-study-tour-announced).
+
