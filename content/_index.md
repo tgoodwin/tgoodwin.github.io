@@ -22,7 +22,7 @@ Bart Jansen, Timothy Goodwin, Varun Gupta, Fernando Kuipers, Gil Zussman.\
 
 ## # Projects
 - [crd-tweet](https://github.com/tgoodwin/crd-tweet) (Mar 2023)\
-A fully peer-to-peer twitter prototype. Modeled with CRDTs, built with SQLite and WebRTC.
+A fully peer-to-peer twitter prototype built with CRDTs that seeks to explore what an entirely decentralized, local-first social media platform may look like.
 
 - [Happenings](https://whatshappenings.com) (2019 - present)\
 A social tool for organizing and archiving community events.
