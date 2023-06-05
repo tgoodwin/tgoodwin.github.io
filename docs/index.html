@@ -224,7 +224,19 @@
 </head>
 
 <body>
-  <header><a href="/" class="title">
+  <header>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7MHMEZXZ6W"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-7MHMEZXZ6W', { 'anonymize_ip': false });
+}
+</script>
+
+<a href="/" class="title">
     <h1>Tim Goodwin</h1>
 </a>
 <nav><a href="/">Home</a>
@@ -232,7 +244,6 @@
 
 <a href="/blog">Blog</a>
 
-<a href="/music">Music</a>
 </nav></header>
   <main>
 <p><img src="/images/timothy_goodwin-3-2.jpg" alt="timothy goodwin"></p>
@@ -260,7 +271,7 @@ Bart Jansen, Timothy Goodwin, Varun Gupta, Fernando Kuipers, Gil Zussman.<br>
 <ul>
 <li>
 <p><a href="https://github.com/tgoodwin/crd-tweet">crd-tweet</a> (Mar 2023)<br>
-A fully peer-to-peer twitter prototype. Modeled with CRDTs, built with SQLite and WebRTC.</p>
+A fully peer-to-peer twitter prototype built with CRDTs that seeks to explore what an entirely decentralized, local-first social media platform may look like.</p>
 </li>
 <li>
 <p><a href="https://whatshappenings.com">Happenings</a> (2019 - present)<br>
