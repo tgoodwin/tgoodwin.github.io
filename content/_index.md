@@ -2,6 +2,7 @@
 ## # Information
 This site features a selection of projects that I've enjoyed working on over the past few years.
 
+
 _About Myself_ - I am a first year PhD student in the [LSD lab](https://lsd.ucsc.edu) at UC Santa Cruz. I am broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers.
 
 Previously, I was working as a software engineer in New York. I lead a small engineering team at [Impossible Effort](https://impossible-effort.com), where we are building a new social tool for organizing and archiving community events. I also record and produce music as [Nuns Honey](https://nunshoney.bandcamp.com) - have a listen!
@@ -21,6 +22,9 @@ Bart Jansen, Timothy Goodwin, Varun Gupta, Fernando Kuipers, Gil Zussman.\
 [IFIP Performance '17](https://dl.acm.org/toc/sigmetrics/2018/45/3)
 
 ## # Projects
+- [runlog](https://github.com/tgoodwin/runlog) (Jul 2023)\
+A web app to help plan and track the training blocks for the running events in your life. More of a "birds-eye view" than Strava, and makes it easy to plan out future runs around your weekly mileage targets. 
+
 - [crd-tweet](https://github.com/tgoodwin/crd-tweet) (Mar 2023)\
 A fully peer-to-peer twitter prototype built with CRDTs that seeks to explore what an entirely decentralized, local-first social media platform may look like.
 
