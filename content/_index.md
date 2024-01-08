@@ -20,6 +20,8 @@ Bart Jansen, Timothy Goodwin, Varun Gupta, Fernando Kuipers, Gil Zussman.\
 [IFIP Performance '17](https://dl.acm.org/toc/sigmetrics/2018/45/3)
 
 ## # Projects
+- [obsidian-jot](https://github.com/tgoodwin/obsidian-jot) (Dec 2023)\
+A macOS menu-bar app that allows you to append a quick thought or note to an Obsidian daily note via global hotkey. Helps you avoid even the slightest context switch between applications so you can persist a thought into Obsidian almost as quickly as you can think it.
 - [runlog](https://github.com/tgoodwin/runlog) (Jul 2023)\
 A web app to help plan and track the training blocks for the running events in your life. More of a "birds-eye view" than Strava, and makes it easy to plan out future runs around your weekly mileage targets. 
 
