@@ -1,7 +1,7 @@
 ![timothy goodwin](/images/timothy_goodwin-3-2.jpg)
 ## # Information
 
-I am a 2nd year PhD student in the [LSD lab](https://lsd.ucsc.edu) at UC Santa Cruz. I am broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers.
+I am a 2nd year PhD student in the [LSD lab](https://lsd.ucsc.edu) at UC Santa Cruz where I am generously supported by the NSF CSGrad4US fellowship. I am broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers. 
 
 I lead a small engineering team at [Impossible Effort](https://impossible-effort.com), where we are currently building a new social tool for organizing and archiving community events. I also record and produce music as [Nuns Honey](https://nunshoney.bandcamp.com) - have a listen!
 
