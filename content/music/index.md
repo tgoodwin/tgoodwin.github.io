@@ -1,7 +1,10 @@
 ## # Music
 Below are selected recordings from my personal project [Nuns Honey](https://nunshoney.bandcamp.com) and other bands that I'm lucky to have been a part of over the past few years.
-- **Nuns Honey** (New York and Santa Cruz, 2018 - present)\
+- **Nuns Honey** 2018 - present\
 [Spotify](https://open.spotify.com/artist/7DjCNOD4Pof8Vf1CYZsrd7) / [Apple Music](https://music.apple.com/us/artist/nuns-honey/1454436827) / [Bandcamp](https://nunshoney.bandcamp.com)
+{{< rawhtml >}}
+<iframe style="border: 0; width: 444px; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1768744799/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/tracklist=false/tracks=1768744799/esig=60304f737f8ec674bc3b5583623651e4/" seamless><a href="https://nunshoney.bandcamp.com/track/never-get-back">Never Get Back by Nuns Honey</a></iframe>
+{{</ rawhtml >}}
 {{< rawhtml >}}
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=266882170/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://nunshoney.bandcamp.com/album/dont-call-it">Don&#39;t Call It by Nuns Honey</a></iframe>
 {{</ rawhtml >}}
