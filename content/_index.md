@@ -29,20 +29,20 @@ Tim Goodwin, David Morrison.\
 A Go compiler targeting Kubernetes applications. It transforms a monolithic app into a microservice architecture by extracting subroutines into microservices that are called over HTTP. Presented at KubeCon North America '24.
 
 - [obsidian-jot](https://github.com/tgoodwin/obsidian-jot) (Dec 2023)\
-A macOS menu-bar app that allows you to append a quick thought to an Obsidian daily note (or some other digital notebook) via a global hotkey. _Helps you avoid even the slightest context switch between applications so you can persist a thought into your note system almost as quickly as you can think it._ I needed this so I made it!
+A macOS menu-bar app that allows you to append a quick thought to an Obsidian daily note via a global hotkey. _Helps you avoid even the slightest context switch so you can persist a thought into your note system almost as quickly as you can think it._ I needed this so I made it!
 
 - [running.build](https://running.build) (Jul 2023)\
-A web app to help plan and track the training blocks for the running events in your life. More of a "birds-eye view" than Strava, and makes it easy to plan out future runs around your weekly mileage targets.
+A web app to help plan and track the training blocks for the running events in your life. More of a "birds-eye view" than Strava, and makes it easy to plan runs around your weekly mileage targets.
 
 - [crd-tweet](https://github.com/tgoodwin/crd-tweet) (Mar 2023)\
 A fully peer-to-peer twitter prototype built with CRDTs that seeks to explore what an entirely decentralized, local-first social media platform may look like.
 
-- [Happenings](https://whatshappenings.com) (2019 - present)\
-A social tool for organizing and archiving community events.
-
-- [WebRTC-Analyzer](https://github.com/tgoodwin/webRTC-analyzer) (Spring 2017)\
-A simple video chat server application instrumented to evaluate the performance of the WebRTC protocol under various network conditions.
-
+<!--- [Happenings](https://whatshappenings.com) (2019 - present)\-->
+<!--A social tool for organizing and archiving community events.-->
+<!---->
+<!--- [WebRTC-Analyzer](https://github.com/tgoodwin/webRTC-analyzer) (Spring 2017)\-->
+<!--A simple video chat server application instrumented to evaluate the performance of the WebRTC protocol under various network conditions.-->
+<!---->
 <!--- [The Netflix Stream](https://discrete.events/netflix-model) (May 2017)\-->
 <!--Essay on the Netflix Stream as a media artifact that explores the connections between internet topology, streaming infrastructure, consumer subjectivity, and environmental consequence.-->
 <!---->
