@@ -25,6 +25,9 @@ Tim Goodwin, David Morrison.\
 [KubeCon North America '24](https://kccncna2024.sched.com/event/1i7pc/what-if-kubernetes-was-a-compiler-target-david-morrison-applied-computing-research-labs-tim-goodwin-uc-santa-cruz)
 
 ## # Projects
+- [kompile](https://github.com/acrlabs/kompile) (Fall 2024)\
+A Go compiler targeting Kubernetes applications. It transforms a monolithic app into a microservice architecture by extracting subroutines into microservices that are called over HTTP. Presented at KubeCon North America '24.
+
 - [obsidian-jot](https://github.com/tgoodwin/obsidian-jot) (Dec 2023)\
 A macOS menu-bar app that allows you to append a quick thought to an Obsidian daily note (or some other digital notebook) via a global hotkey. _Helps you avoid even the slightest context switch between applications so you can persist a thought into your note system almost as quickly as you can think it._ I needed this so I made it!
 
