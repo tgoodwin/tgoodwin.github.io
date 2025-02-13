@@ -4,6 +4,5 @@ title = 'Tim Goodwin'
 theme = 'hugo-bearblog'
 favicon = 'images/favicon.png'
 images = ["images/timothy_goodwin.jpg"]
-publishDir = "docs"
 googleAnalytics = 'G-7MHMEZXZ6W'
 
