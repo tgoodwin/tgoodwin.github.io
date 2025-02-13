@@ -25,6 +25,9 @@ Tim Goodwin, David Morrison.\
 [KubeCon North America '24](https://kccncna2024.sched.com/event/1i7pc/what-if-kubernetes-was-a-compiler-target-david-morrison-applied-computing-research-labs-tim-goodwin-uc-santa-cruz)
 
 ## # Projects
+- [terrazas](https://discrete.events/terrazas) (Jan 2025)\
+A weekend experiment with graph coloring and backtracking algorithms, inspired by the work of Mexican artist Eduardo Terrazas.
+
 - [kompile](https://github.com/acrlabs/kompile) (Fall 2024)\
 A Go compiler targeting Kubernetes applications. It transforms a monolithic app into a microservice architecture by extracting subroutines into microservices that are called over HTTP. Presented at KubeCon North America '24.
 
