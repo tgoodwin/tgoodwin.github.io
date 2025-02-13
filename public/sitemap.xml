@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://discrete.events/</loc>
+    <loc>https://discrete.events/music/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://discrete.events/blog/</loc>
@@ -10,5 +10,7 @@
     <loc>https://discrete.events/categories/</loc>
   </url><url>
     <loc>https://discrete.events/tags/</loc>
+  </url><url>
+    <loc>https://discrete.events/</loc>
   </url>
 </urlset>

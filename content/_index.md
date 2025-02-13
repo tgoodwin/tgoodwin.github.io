@@ -1,3 +1,6 @@
+---
+title: "Timothy Goodwin"
+---
 ![timothy goodwin](/images/timothy_goodwin-3-2.jpg)
 ## # Information
 

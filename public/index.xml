@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tim Goodwin</title>
+    <title>Timothy Goodwin on Tim Goodwin</title>
     <link>https://discrete.events/</link>
-    <description>Recent content on Tim Goodwin</description>
+    <description>Recent content in Timothy Goodwin on Tim Goodwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://discrete.events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://discrete.events/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://discrete.events/music/</guid>
+      <description># Music Below are selected recordings from my personal project Nuns Honey and other bands that I&amp;rsquo;m lucky to have been a part of over the past few years.
+Nuns Honey 2018 - present
+Spotify / Apple Music / Bandcamp Never Get Back by Nuns Honey Don&amp;#39;t Call It by Nuns Honey Charlie Best by Nuns Honey Ezrat 2019 - 2021
+Spotify / Apple Music / Bandcamp I Know What That&amp;#39;s Like by Ezrat Carousel by Ezrat Gold Medal 2016-2017</description>
+    </item>
+    
   </channel>
 </rss>
