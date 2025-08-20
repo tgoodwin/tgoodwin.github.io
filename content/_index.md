@@ -23,11 +23,17 @@ Bart Jansen, Timothy Goodwin, Varun Gupta, Fernando Kuipers, Gil Zussman.\
 [IFIP Performance '17](https://dl.acm.org/toc/sigmetrics/2018/45/3)
 
 ## # Talks
+- **I've Got 99 Problems and They're All Controllers**\
+Tim Goodwin.\
+[KubeCon North America '25](https://sched.co/27FXy)
+
 - **What if Kubernetes was a compiler target?**\
 Tim Goodwin, David Morrison.\
 [KubeCon North America '24](https://kccncna2024.sched.com/event/1i7pc/what-if-kubernetes-was-a-compiler-target-david-morrison-applied-computing-research-labs-tim-goodwin-uc-santa-cruz)
 
 ## # Projects
+- [kamera](https://discrete.events/kamera) (2025)\
+Kamera is an observability and testing toolkit designed specifically for the Kubernetes control plane. Kamera uses a record-and-replay mechanism to debug Kubernetes controllers and the interactions between them.
 - [terrazas](https://discrete.events/terrazas) (Jan 2025)\
 A weekend experiment with graph coloring and backtracking algorithms, inspired by the work of Mexican artist Eduardo Terrazas.
 
