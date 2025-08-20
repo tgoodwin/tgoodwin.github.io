@@ -11,7 +11,7 @@ I lead a small engineering team at [Impossible Effort](https://hpngs.com), where
 ### Contact
 timg.goodwin@gmail.com
 
-[Github](https://github.com/tgoodwin) * [Last.fm](https://www.last.fm/user/timbadlose) * [Strava](https://www.strava.com/athletes/43726571)
+[Github](https://github.com/tgoodwin) * [Linkedin](https://www.linkedin.com/in/tgoodwin17/) * [Strava](https://www.strava.com/athletes/43726571)
 
 ## # Publications
 - **Monolift: Automating Distribution With The Tools You Have At Home**\
