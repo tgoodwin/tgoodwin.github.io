@@ -15,15 +15,15 @@ timg.goodwin@gmail.com
 
 ## # Publications
 - **Monolift: Automating Distribution With The Tools You Have At Home**\
-Tim Goodwin, Andrew Quinn, Lindsey Kuper.\
-[draft under submission](https://drive.google.com/file/d/1F1_2ztZOB7kTiy_lxhc-k1iU6OUV1wBW/view?usp=sharing)
+Tim Goodwin, Esteban Ramos, Andrew Quinn, Lindsey Kuper.\
+[PLOS '25](https://www.plos-workshop.org/2025/) (to appear)
 
-- **What goes wrong in serverless runtimes? A survey of bugs in Knative Serving.**\
+- **What goes wrong in serverless runtimes? A survey of bugs in Knative Serving**\
 Tim Goodwin, Andrew Quinn, Lindsey Kuper.\
 [SESAME '23](https://sesame23.github.io)
 
-- **Performance Analysis of WebRTC-based Video Conferencing.**\
-Bart Jansen, Timothy Goodwin, Varun Gupta, Fernando Kuipers, Gil Zussman.\
+- **Performance Analysis of WebRTC-based Video Conferencing**\
+Bart Jansen, Tim Goodwin, Varun Gupta, Fernando Kuipers, Gil Zussman.\
 [IFIP Performance '17](https://dl.acm.org/toc/sigmetrics/2018/45/3)
 
 ## # Talks
@@ -36,7 +36,7 @@ Tim Goodwin, David Morrison.\
 
 ## # Projects
 - [Kamera](https://discrete.events/kamera) (2025)\
-Kamera is an observability and testing toolkit for debugging Kubernetes controllers and the interactions between them. Targeting platform engineering use cases, Kamera empowers developers to quickly diagnose issues in custom control planes by tracing causality across controller reconciliations and the environmental events that trigger them. Additionally, Kamera employs trace replay and simulation techniques to catch problematic controller behaviors pre-deployment.
+Kamera is an observability and testing framework for debugging Kubernetes controllers and the interactions between them. Targeting platform engineering use cases, Kamera quickly diagnoses issues in custom control planes by tracing causality across controller reconciliations and the environmental events that trigger them. Additionally, Kamera employs replay and simulation techniques to catch problematic controller behaviors pre-deployment.
 
 - [terrazas](https://discrete.events/terrazas) (Jan 2025)\
 A weekend experiment with graph coloring and backtracking algorithms, inspired by the work of Mexican artist Eduardo Terrazas.
