@@ -35,7 +35,10 @@ Tim Goodwin, David Morrison.\
 [KubeCon North America '24](https://kccncna2024.sched.com/event/1i7pc/what-if-kubernetes-was-a-compiler-target-david-morrison-applied-computing-research-labs-tim-goodwin-uc-santa-cruz)
 
 ## # Projects
-- [Kamera](https://discrete.events/kamera) (2025)\
+- [Monolift](https://github.com/tgoodwin/monolift) (2025)\
+Monolift is a new technique for developing and deploying distributed applications that prioritizes incremental adoption and support for legacy code. Monolift treats distribution as a compiler pass for general purpose languages, where users guide the process via lightweight comment directives. Additionally, Monolift embeds a runtime monitor to intelligently manage the compiled application's distribution in response to live performance metrics.
+
+- [Kamera](https://github.com/tgoodwin/kamera) (2025)\
 Kamera is an observability and testing framework for debugging Kubernetes controllers and the interactions between them. Targeting platform engineering use cases, Kamera quickly diagnoses issues in custom control planes by tracing causality across controller reconciliations and the environmental events that trigger them. Additionally, Kamera employs replay and simulation techniques to catch problematic controller behaviors pre-deployment.
 
 - [terrazas](https://discrete.events/terrazas) (Jan 2025)\
@@ -53,8 +56,8 @@ A macOS menu-bar app that allows you to append a quick thought to an Obsidian da
 - [crd-tweet](https://github.com/tgoodwin/crd-tweet) (Mar 2023)\
 A fully peer-to-peer twitter prototype built with CRDTs that seeks to explore what an entirely decentralized, local-first social media platform may look like.
 
-<!--- [Happenings](https://whatshappenings.com) (2019 - present)\-->
-<!--A social tool for organizing and archiving community events.-->
+<!--- [Happenings](https://hpngs.com) (2019 - present)\-->
+<!--A social platform for organizing and archiving community events. TypeScript + express web app, as well as a React Native iOS app. -->
 <!---->
 <!--- [WebRTC-Analyzer](https://github.com/tgoodwin/webRTC-analyzer) (Spring 2017)\-->
 <!--A simple video chat server application instrumented to evaluate the performance of the WebRTC protocol under various network conditions.-->
