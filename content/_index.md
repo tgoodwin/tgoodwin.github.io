@@ -16,7 +16,7 @@ timg.goodwin@gmail.com
 ## # Publications
 - **Monolift: Automating Distribution With The Tools You Have At Home**\
 Tim Goodwin, Esteban Ramos, Andrew Quinn, Lindsey Kuper.\
-[PLOS '25](https://www.plos-workshop.org/2025/) (to appear)
+[PLOS '25](https://drive.google.com/drive/folders/1bFVQRGEi2t2qcK1PHdXbiSJWCnvw68oB?usp=share_link) (to appear)
 
 - **What goes wrong in serverless runtimes? A survey of bugs in Knative Serving**\
 Tim Goodwin, Andrew Quinn, Lindsey Kuper.\
