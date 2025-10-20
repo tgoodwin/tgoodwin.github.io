@@ -16,11 +16,11 @@ timg.goodwin@gmail.com
 ## # Publications
 - **Monolift: Automating Distribution With The Tools You Have At Home**\
 Tim Goodwin, Esteban Ramos, Andrew Quinn, Lindsey Kuper.\
-[PLOS '25](https://www.plos-workshop.org/2025/) (to appear)
+[PLOS '25](https://dl.acm.org/doi/10.1145/3764860.3768327)
 
 - **What goes wrong in serverless runtimes? A survey of bugs in Knative Serving**\
 Tim Goodwin, Andrew Quinn, Lindsey Kuper.\
-[SESAME '23](https://sesame23.github.io)
+[SESAME '23](https://dl.acm.org/doi/10.1145/3592533.3592806)
 
 - **Performance Analysis of WebRTC-based Video Conferencing**\
 Bart Jansen, Tim Goodwin, Varun Gupta, Fernando Kuipers, Gil Zussman.\
