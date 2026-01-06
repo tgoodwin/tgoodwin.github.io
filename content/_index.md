@@ -4,7 +4,7 @@ title: "Timothy Goodwin"
 ![timothy goodwin](/images/timothy_goodwin-3-2.jpg)
 ## # Information
 
-I am a 3rd year PhD student in the [LSD lab](https://lsd.ucsc.edu) at UC Santa Cruz where I am generously supported by the NSF CSGrad4US fellowship. I'm broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers.
+I am a 4th year PhD student in the [LSD lab](https://lsd.ucsc.edu) at UC Santa Cruz where I am generously supported by the NSF CSGrad4US fellowship. I'm broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers.
 
 I lead a small engineering team at [Impossible Effort](https://hpngs.com), where we are currently building a new social tool for organizing and archiving community events. I also record and produce music as [Nuns Honey](https://nunshoney.bandcamp.com) - have a listen!
 
@@ -27,8 +27,8 @@ Bart Jansen, Tim Goodwin, Varun Gupta, Fernando Kuipers, Gil Zussman.\
 [IFIP Performance '17](https://dl.acm.org/toc/sigmetrics/2018/45/3)
 
 ## # Talks
-- **I've Got 99 Problems and They're All Controllers** (upcoming)\
-[KubeCon North America '25](https://sched.co/27FXy)
+- **I've Got 99 Problems and They're All Controllers**\
+[KubeCon North America '25](https://kccncna2025.sched.com/event/27FXy)
 
 - **What if Kubernetes was a compiler target?**\
 Tim Goodwin, David Morrison.\
@@ -36,10 +36,11 @@ Tim Goodwin, David Morrison.\
 
 ## # Projects
 - [Monolift](https://github.com/tgoodwin/monolift) (2025)\
-Monolift is a new technique for developing and deploying distributed applications that prioritizes incremental adoption and support for legacy code. Monolift treats distribution as a compiler pass for general purpose languages, where users guide the process via lightweight comment directives. Additionally, Monolift embeds a runtime monitor to intelligently manage the compiled application's distribution in response to live performance metrics.
+Monolift is a new technique for developing scalable cloud applications that prioritizes *incremental adoption* and *support for legacy code*. Instead of exposing a new framework for developers to adopt, Monolift refactors existing applications for scalability via a compiler pass, and synthesizes runtime instrumentation to dynamically manage the compiled application's distribution in response to live performance metrics.
 
 - [Kamera](https://github.com/tgoodwin/kamera) (2025)\
-Kamera is an observability and testing framework for debugging Kubernetes controllers and the interactions between them. Targeting platform engineering use cases, Kamera quickly diagnoses issues in custom control planes by tracing causality across controller reconciliations and the environmental events that trigger them. Additionally, Kamera employs replay and simulation techniques to catch problematic controller behaviors pre-deployment.
+Kamera is a deterministic simulation testing framework for Kubernetes control planes. Targeting platform engineering use cases, Kamera quickly diagnoses issues in custom control planes by tracing causality across controller reconciliations and the environmental events that trigger them.\
+Covered by [*The New Stack*](https://thenewstack.io/kamera-uses-simulation-to-verify-kubernetes-controller-logic/).
 
 - [terrazas](https://discrete.events/terrazas) (Jan 2025)\
 A weekend experiment with graph coloring and backtracking algorithms, inspired by the work of Mexican artist Eduardo Terrazas.
@@ -56,9 +57,9 @@ A macOS menu-bar app that allows you to append a quick thought to an Obsidian da
 - [crd-tweet](https://github.com/tgoodwin/crd-tweet) (Mar 2023)\
 A fully peer-to-peer twitter prototype built with CRDTs that seeks to explore what an entirely decentralized, local-first social media platform may look like.
 
-<!--- [Happenings](https://hpngs.com) (2019 - present)\-->
-<!--A social platform for organizing and archiving community events. TypeScript + express web app, as well as a React Native iOS app. -->
-<!---->
+- [Happenings](https://hpngs.com) (2019 - present)\
+A social platform for organizing and archiving community events. 
+
 <!--- [WebRTC-Analyzer](https://github.com/tgoodwin/webRTC-analyzer) (Spring 2017)\-->
 <!--A simple video chat server application instrumented to evaluate the performance of the WebRTC protocol under various network conditions.-->
 <!---->
