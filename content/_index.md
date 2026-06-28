@@ -36,7 +36,7 @@ Tim Goodwin, David Morrison.\
 
 ## # Projects
 - [Monolift](https://github.com/tgoodwin/monolift) (2025)\
-Monolift is a new technique for developing scalable cloud applications that prioritizes *incremental adoption* and *support for legacy code*. Instead of exposing a new framework for developers to adopt, Monolift refactors existing applications for scalability via a compiler pass, and synthesizes runtime instrumentation to dynamically manage the compiled application's distribution in response to live performance metrics.
+Monolift is a compiler-based tool that simplifies the process of refactoring applications for scalability. Monolift's approach prioritizes incremental adoption and direct support for legacy code: it automatically refactors *existing* applications into scalable, cloud-native architectures, and synthesizes runtime instrumentation to dynamically optimize the compiled application's distribution in response to live performance metrics.
 
 - [Kamera](https://github.com/tgoodwin/kamera) (2025)\
 Kamera is a deterministic simulation testing framework for Kubernetes control planes. Targeting platform engineering use cases, Kamera quickly diagnoses issues in custom control planes by tracing causality across controller reconciliations and the environmental events that trigger them.\
@@ -46,19 +46,19 @@ Covered by [*The New Stack*](https://thenewstack.io/kamera-uses-simulation-to-ve
 A weekend experiment with graph coloring and backtracking algorithms, inspired by the work of Mexican artist Eduardo Terrazas.
 
 - [kompile](https://github.com/acrlabs/kompile) (Fall 2024)\
-A Go compiler targeting Kubernetes applications. It can automatically transform a monolithic app into a microservice architecture by extracting subroutines into microservices that are called over HTTP. Presented at KubeCon North America '24.
+An experimental compiler for distributing Go applications onto Kubernetes. It transforms goroutines into Kubernetes Pods that communicate over HTTP. This is an answer to the question "What if Kubernetes was a compiler target?" Presented a talk of the same name at KubeCon North America '24.
 
-- [obsidian-jot](https://github.com/tgoodwin/obsidian-jot) (Dec 2023)\
-A macOS menu-bar app that allows you to append a quick thought to an Obsidian daily note via a global hotkey. _Helps you avoid even the slightest context switch so you can persist a thought into your note system almost as quickly as you can think it._ I needed this so I made it!
+<!--- [obsidian-jot](https://github.com/tgoodwin/obsidian-jot) (Dec 2023)\-->
+<!--A macOS menu-bar app that allows you to append a quick thought to an Obsidian daily note via a global hotkey. _Helps you avoid even the slightest context switch so you can persist a thought into your note system almost as quickly as you can think it._ I needed this so I made it!-->
 
-<!--- [running.build](https://running.build) (Jul 2023)\-->
-<!--A web app to help plan and track the training blocks for the running events in your life. More of a "birds-eye view" than Strava, and makes it easy to plan runs around your weekly mileage targets.-->
+- [running.build](https://running.build) (Jul 2023)\
+A web app to help plan and track the training blocks for the running events in your life. More of a "birds-eye view" than Strava, and makes it easy to adjust your weekly plans around your mileage targets when life gets in the way.
 
 - [crd-tweet](https://github.com/tgoodwin/crd-tweet) (Mar 2023)\
 A fully peer-to-peer twitter prototype built with CRDTs that seeks to explore what an entirely decentralized, local-first social media platform may look like.
 
 - [Happenings](https://hpngs.com) (2019 - present)\
-A social platform for organizing and archiving community events. 
+An events platform for social organizing and community memory. 
 
 <!--- [WebRTC-Analyzer](https://github.com/tgoodwin/webRTC-analyzer) (Spring 2017)\-->
 <!--A simple video chat server application instrumented to evaluate the performance of the WebRTC protocol under various network conditions.-->
