@@ -14,12 +14,16 @@ timg.goodwin@gmail.com
 [Github](https://github.com/tgoodwin) * [Linkedin](https://www.linkedin.com/in/tgoodwin17/) * [Strava](https://www.strava.com/athletes/43726571)
 
 ## # Publications
+- **Testing Custom Control Planes Without The Cluster**\
+Tim Goodwin, Andi Quinn, Lindsey Kuper.\
+[SOSP '26](https://sigops.org/s/conferences/sosp/2026/) (to appear)
+
 - **Monolift: Automating Distribution With The Tools You Have At Home**\
-Tim Goodwin, Esteban Ramos, Andrew Quinn, Lindsey Kuper.\
+Tim Goodwin, Esteban Ramos, Andi Quinn, Lindsey Kuper.\
 [PLOS '25](https://dl.acm.org/doi/10.1145/3764860.3768327)
 
 - **What goes wrong in serverless runtimes? A survey of bugs in Knative Serving**\
-Tim Goodwin, Andrew Quinn, Lindsey Kuper.\
+Tim Goodwin, Andi Quinn, Lindsey Kuper.\
 [SESAME '23](https://dl.acm.org/doi/10.1145/3592533.3592806)
 
 - **Performance Analysis of WebRTC-based Video Conferencing**\
