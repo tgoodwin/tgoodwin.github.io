@@ -4,7 +4,7 @@ title: "Timothy Goodwin"
 ![timothy goodwin](/images/timothy_goodwin-3-2.jpg)
 ## # Information
 
-I am a 4th year PhD student in the [LSD lab](https://lsd.ucsc.edu) at UC Santa Cruz where I am generously supported by the NSF CSGrad4US fellowship. I'm broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers.
+I am a 5th year PhD student in the [LSD lab](https://lsd.ucsc.edu) at UC Santa Cruz where I am generously supported by the NSF CSGrad4US fellowship. I'm broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers.
 
 I lead a small engineering team at [Impossible Effort](https://hpngs.com), where we are currently building a new social tool for organizing and archiving community events. I also record and produce music as [Nuns Honey](https://nunshoney.bandcamp.com) - have a listen!
 
@@ -15,8 +15,8 @@ timg.goodwin@gmail.com
 
 ## # Publications
 - **Testing Custom Control Planes Without The Cluster**\
-Tim Goodwin, Andi Quinn, Lindsey Kuper.\
-[SOSP '26](https://sigops.org/s/conferences/sosp/2026/) (to appear)
+Tim Goodwin, Lindsey Kuper, Andi Quinn.\
+[SOSP '26](https://dl.acm.org/doi/10.1145/3830418.3843898)
 
 - **Monolift: Automating Distribution With The Tools You Have At Home**\
 Tim Goodwin, Esteban Ramos, Andi Quinn, Lindsey Kuper.\
