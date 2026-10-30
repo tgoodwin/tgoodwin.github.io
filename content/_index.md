@@ -4,7 +4,7 @@ title: "Timothy Goodwin"
 ![timothy goodwin](/images/timothy_goodwin-3-2.jpg)
 ## # Information
 
-I am a 5th year PhD student in the [LSD lab](https://lsd.ucsc.edu) at UC Santa Cruz where I am generously supported by the NSF CSGrad4US fellowship. I'm broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers.
+I am a 5th and final year year PhD student in the [LSD lab](https://lsd.ucsc.edu) at UC Santa Cruz where I am generously supported by the NSF CSGrad4US fellowship. I'm broadly interested in distributed systems and the abstractions we use to build them. Lately, I've been focusing on cloud-native programming models and the challenges they present to developers.
 
 I lead a small engineering team at [Impossible Effort](https://hpngs.com), where we are currently building a new social tool for organizing and archiving community events. I also record and produce music as [Nuns Honey](https://nunshoney.bandcamp.com) - have a listen!
 
@@ -40,17 +40,17 @@ Tim Goodwin, David Morrison.\
 
 ## # Projects
 - [Monolift](https://github.com/tgoodwin/monolift) (2025)\
-Monolift is a compiler-based tool that simplifies the process of refactoring applications for scalable cloud deployment. Unlike framework-based solutions, Monolift's approach prioritizes incremental adoption and direct support for legacy code: it automatically refactors *existing* applications into scalable cloud architectures and synthesizes instrumentation to dynamically optimize the compiled application's deployment in response to live performance metrics.
+A compiler and runtime that simplifies the process of refactoring applications for scalable cloud deployment. Unlike a framework, Monolift's compilation approach directly supports _legacy_ code, enabling developers to rapidly transform existing applications to a variety of distributed architectures, enabling them to rapidly prototype deployment strategies while avoiding expensive and risky refactors.
 
 - [Kamera](https://github.com/tgoodwin/kamera) (2025)\
-Kamera is a deterministic simulation testing framework for Kubernetes control planes. Targeting platform engineering use cases, Kamera quickly diagnoses issues in custom control planes by tracing causality across controller reconciliations and the environmental events that trigger them.\
+A deterministic simulation framework for testing Kubernetes control planes. Kamera runs real controller code in a simulated cluster environment, enabling fast and efficient exploration of the possible reconciliation paths across multiple loosely coupled controllers.
 Covered by [*The New Stack*](https://thenewstack.io/kamera-uses-simulation-to-verify-kubernetes-controller-logic/).
 
 - [terrazas](https://discrete.events/terrazas) (Jan 2025)\
 A weekend experiment with graph coloring and backtracking algorithms, inspired by the work of Mexican artist Eduardo Terrazas.
 
 - [kompile](https://github.com/acrlabs/kompile) (Fall 2024)\
-An experimental compiler for distributing Go applications onto Kubernetes. It extracts goroutines into Kubernetes Pods that communicate over HTTP. I presented Kompile as an early answer to the question "what if Kubernetes was a compiler target?" at KubeCon North America '24.
+An experimental compiler for distributing Go applications onto Kubernetes. It extracts goroutines into Kubernetes Pods that communicate over HTTP. I presented Kompile as an early answer to the question *"what if Kubernetes was a compiler target?"* at KubeCon North America '24.
 
 <!--- [obsidian-jot](https://github.com/tgoodwin/obsidian-jot) (Dec 2023)\-->
 <!--A macOS menu-bar app that allows you to append a quick thought to an Obsidian daily note via a global hotkey. _Helps you avoid even the slightest context switch so you can persist a thought into your note system almost as quickly as you can think it._ I needed this so I made it!-->
